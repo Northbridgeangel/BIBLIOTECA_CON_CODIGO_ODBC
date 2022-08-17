@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BIBLIOTECA_CON_CODIGO_ODBC", "BIBLIOTECA_CON_CODIGO_ODBC.vbproj", "{22C2594D-CD47-433B-9A7D-67F7B41B2117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C2594D-CD47-433B-9A7D-67F7B41B2117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C2594D-CD47-433B-9A7D-67F7B41B2117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C2594D-CD47-433B-9A7D-67F7B41B2117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C2594D-CD47-433B-9A7D-67F7B41B2117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7306C349-39D9-4BB5-AB31-2C6BD9FDA6DC}
+	EndGlobalSection
+EndGlobal
